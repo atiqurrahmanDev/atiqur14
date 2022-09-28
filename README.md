@@ -4,7 +4,7 @@
 
 I'm a student at Eastern University
 
-Skills: HTML / CSS / JS / PYTHON / C
+Skills: HTML / CSS / JS / PYTHON / C / Video Editing
 
 - 🔭 I’m currently working on student 
 - 🌱 I’m currently learning JavaScript and Python 
