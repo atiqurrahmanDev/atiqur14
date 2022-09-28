@@ -1,5 +1,3 @@
-![I'm student](https://media-exp1.licdn.com/dms/image/C4E16AQFnWKZGOb7I_w/profile-displaybackgroundimage-shrink_350_1400/0/1610460132918?e=1669852800&v=beta&t=ux-p42ZUqqmSsiuGa-OrkOXkttRFq9bn-MRo9c-Tf3M)
-
 ### Hi there 👋, I'm Atiqur Rahman
 #### I'm student
 
